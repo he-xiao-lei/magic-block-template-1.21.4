@@ -13,8 +13,6 @@ import net.minecraft.util.Identifier;
 import java.util.function.Function;
 
 public class ExampleItems {
-    private static final int A  = 17;
-    This is a Example Setences.
     private ExampleItems(){
 
     }
