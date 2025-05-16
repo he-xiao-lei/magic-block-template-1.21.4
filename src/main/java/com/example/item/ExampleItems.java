@@ -13,7 +13,7 @@ import net.minecraft.util.Identifier;
 import java.util.function.Function;
 
 public class ExampleItems {
-
+    This is a Example Setences.
     private ExampleItems(){
 
     }
