@@ -20,6 +20,9 @@ repositories {
 		maven {
 			url 'https://maven.aliyun.com/repository/public'
 		}
+		mavenCentral()
+		maven { url 'https://repo.spongepowered.org/maven' }
+		maven { url 'https://maven.fabricmc.net/' }
 }
 
 loom {
